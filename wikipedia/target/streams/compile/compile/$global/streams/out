@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/farewell/Desktop/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala:28:66: value filePath is not a member of object wikipedia.WikipediaData[0m
+[0m[[0m[31merror[0m] [0m[0m  val wikiRdd: RDD[WikipediaArticle] = sc.textFile(WikipediaData.filePath).map(row => WikipediaData.parse(row))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

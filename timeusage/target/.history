@@ -1,0 +1,4 @@
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/bn/2nrs4c217gd0c50htsv35v_c0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/farewell/Library/Application Support/IntelliJIdea2018.1/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+submit ytian285@gmail.com 0XJhLzez35FChZ9d
+submit ytian285@gmail.com uHJ7GVw2XQW8cdYI
