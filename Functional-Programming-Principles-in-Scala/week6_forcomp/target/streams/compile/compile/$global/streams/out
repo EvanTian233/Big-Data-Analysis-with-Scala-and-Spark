@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/farewell/Desktop/forcomp/src/main/scala/forcomp/Anagrams.scala:39:8: method mapValues in trait MapOps is deprecated (since 2.13.0): Use .view.mapValues(f). A future version will include a strict version of this method (for now, .view.mapValues(f).toMap).[0m
+[0m[[0m[33mwarn[0m] [0m[0m      .mapValues(_.size).toList.sorted[0m
+[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/farewell/Desktop/forcomp/src/main/scala/forcomp/Anagrams.scala:38:8: method groupBy in class StringOps is deprecated (since 2.13.0): Use `s.toSeq.groupBy(...).view.mapValues(_.unwrap)` instead of `s.groupBy(...)`[0m
+[0m[[0m[33mwarn[0m] [0m[0m      .groupBy(_.toChar)[0m
+[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
